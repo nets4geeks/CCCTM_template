@@ -2,7 +2,6 @@
 
 # Common Cloud Computing Threat Model (CCCTM) template
 
-
 ## Description 
 
 The Common Cloud Computing Threat Model (CCCTM) describes basic threats against cloud computer systems from the architectural point of view. 
