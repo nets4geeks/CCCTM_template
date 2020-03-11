@@ -30,7 +30,6 @@ About [Microsoft TM](https://docs.microsoft.com/en-us/azure/security/develop/thr
 
 About Application threat modelling [from OWASP](https://www.owasp.org/index.php/Application_Threat_Modeling) and [from Microsoft](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
 
-
 ## References
 
 
