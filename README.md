@@ -1,5 +1,4 @@
 
-
 # Common Cloud Computing Threat Model (CCCTM) template
 
 ## Description 
